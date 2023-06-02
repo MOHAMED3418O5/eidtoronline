@@ -1,0 +1,5 @@
+http://localhost/phpmyadmin/index.php?route=/sql&db=mohamed&table=users&pos=0
+
+
+
+http://localhost/mohamed/rogistar.php
